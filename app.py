@@ -13,7 +13,7 @@ def main():
         st.subheader("Home")
         st.write("""
         - **Título del proyecto:** Proyecto Aplicativo en Streamlit de Python Fundamentals 
-        - **Nombre completo del estudiante:** Jorge Ruiz Santillán
+        - **Nombre completo del estudiante:** Jorge Marino Ruiz Santillán
         - **Nombre del curso o módulo:** Especialización en Python for Analytics - Módulo 1
         - **Año:** 2026
         - **Descripción del objetivo:** Aplicación desarrollada en Streamlit que integra conceptos fundamentales de programación como variables, condicionales, estructuras de datos, funciones, programación funcional y POO.
