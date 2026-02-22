@@ -19,7 +19,7 @@ El proyecto usa un menpu desplegable para navegar entre los 5 apartados del proy
 ### Home
 Carátula y presentación del proyecto
 ### Ejercicio 1
-Calcula si un gasto entra dentro del presupesto asignado.
+Calcula si un gasto entra dentro del presupuesto asignado.
 ### Ejercicio 2
 Registra actividades como diccionarios dentro de una lista.
 ### Ejercicio 3
